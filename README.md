@@ -3,7 +3,7 @@
 ### ✅ To Do List
 
 ```
-**Nexus Police Force**
+Nexus Police Force
 ❌ Update Armory with proper roles & add healing items
 ❌ Add more vehicles - Patrol, RPU, Bikes (This includes de-badging)
 ❌ Add proper clothing for different divisions and add a player wardrobe in the locker room
