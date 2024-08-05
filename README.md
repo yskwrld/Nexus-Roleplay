@@ -9,13 +9,8 @@ Nexus Police Force
 ❌ Add proper clothing for different divisions and add a player wardrobe in the locker room
 ❌ Test PD script (Handcuffs, Sentencing, Jail & So on)
 ```
-
-### 📱 Phone
 ```
-Phone has been updated to the latest version
-Added UK phone number prefixes [07*********]
-⚠️ Test Job Apps
-⚠️ Update Marketplace Businesses
-⚠️ Update Appstore Homescreen
-⚠️ Add Phone Store
+Nexus Health Service
+❌ Add more vehicles (This includes debadging)
+❌ Test health script (Reviving, Escort, Put in vehicle, etc)
 ```
